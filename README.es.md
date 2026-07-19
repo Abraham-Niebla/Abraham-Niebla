@@ -1,5 +1,5 @@
 
-![Cover](https://github.com/Abraham-Niebla/Abraham-Niebla/blob/main/Banner.png?raw=true)
+![Cover](https://github.com/Abraham-Niebla/Abraham-Niebla/blob/main/Banner.es.png?raw=true)
 # Hola, Soy Abraham! 👋
 
 
