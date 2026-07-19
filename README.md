@@ -1,17 +1,21 @@
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> •
+  <a href="README.es.md">🇪🇸 Español</a>
+</p>
 
-![Cover](https://github.com/Abraham-Niebla/Abraham-Niebla/blob/main/Banner.png?raw=true)
-# Hola, Soy Abraham! 👋
+![Cover](https://github.com/Abraham-Niebla/Abraham-Niebla/blob/main/Banner.en.png?raw=true)
+# Hi, I'm Abraham! 👋
 
 
-## 🚀 Sobre Mí
-Soy Ingeniero en Computación full-stack con distinción Sobresaliente EGEL-CENEVAL, reconocimiento nacional al desempeño académico superior. He construido aplicaciones desde cero en entornos reales con Python, Flask, PHP, React y MySQL. Experiencia en automatizaciones con inteligencia artificial y certificación en TensorFlow. Orientado a entregar resultados medibles.
+## 🚀 About Me
+I'm a full-stack Computer Engineer with an Outstanding distinction on the EGEL-CENEVAL exam, a national recognition for superior academic performance. I have built applications from scratch in real-world environments using Python, Flask, PHP, React, and MySQL. Experience with AI-driven automation and TensorFlow certification. Focused on delivering measurable results.
 
 
 ## 🛠 Skills
 
 - Python
 - Flask
-- Bases de datos relacionales
+- Relational databases
 - Git 
 - REST API
 - JavaScript
@@ -22,4 +26,4 @@ Soy Ingeniero en Computación full-stack con distinción Sobresaliente EGEL-CENE
 
 ## 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abraham-Niebla&theme=transparent&border_radius=5&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abraham-Niebla&theme=transparent&border_radius=5&locale=en&mode=weekly)](https://git.io/streak-stats)
